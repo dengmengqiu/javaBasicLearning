@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RMIDemo1ServerInterface">
+    <output-path>$PROJECT_DIR$/classes/artifacts/RMIDemo1ServerInterface</output-path>
+    <root id="archive" name="RMIDemo1ServerInterface.jar">
+      <element id="directory" name="rmi">
+        <element id="directory" name="remote">
+          <element id="directory" name="server">
+            <element id="file-copy" path="$PROJECT_DIR$/classes/production/JavaRMIServerTest/rmi/server/user/UserManagerInterface.class" />
+            <element id="file-copy" path="$PROJECT_DIR$/classes/production/JavaRMIServerTest/rmi/server/user/Account.class" />
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/classes/production/JavaRMIServerTest/rmi/server/user/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config>
+    <className>Pattern.Bridge.test.Blue</className>
+    <className>Pattern.Bridge.test.Dot</className>
+    <className>Pattern.Bridge.test.SmallPen</className>
+</config>
